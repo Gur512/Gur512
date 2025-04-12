@@ -1,6 +1,6 @@
 ### :wave: Hello, I'm Gurpreet!
 
-![Banner](./img/Banner.jpg)
+![Banner](./img/banner.png)
 
 I am a passionate **software developer** with a strong interest in building innovative, user-friendly, and efficient applications. My journey in technology began with curiosity about how systems work, and today, it has evolved into a deep commitment to learning, solving problems, and contributing to impactful projects. With a knack for creative challenges and a meticulous eye for detail, I strive to bring ideas to life through clean code and thoughtful design.
 
