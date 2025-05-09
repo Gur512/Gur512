@@ -17,7 +17,7 @@ In addition to coding, I am:
 ---
 
 ## :wrench: My ToolBox
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -35,12 +35,8 @@ In addition to coding, I am:
 ---
 
 ## :handshake: Let's Connect
--  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gurpreet-kaur-100b42333/) [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?&logo=gmail&logoColor=white)](mailto:gromana2022@gmail.com)
+-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/gurpreet-kaur-100b42333/) 
+-   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?&logo=gmail&logoColor=white)](mailto:gromana2022@gmail.com)
 
 ---
-
-### 🌱 Fun Fact:
-> "Nature brings clarity, and clarity brings solutions."
-
----
-##### Thank you for visiting my profile! :smile:
+##### Thank you for visiting my profile!
